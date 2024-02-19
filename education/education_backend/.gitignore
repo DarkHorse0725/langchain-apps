@@ -1,0 +1,7 @@
+\env
+/langchainapp/__pycache__
+/langchainapp/migrations/__pycache__
+/server/__pycache__
+/users/__pycache__
+/users/migrations/__pycache__
+.env
